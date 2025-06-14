@@ -5,7 +5,7 @@ const projects = [
     title: 'Personal Portfolio',
     description:
       'Built with React and Tailwind CSS, this personal portfolio showcases my skills and projects. It uses reusable components and responsive design to provide a clean and adaptable user experience across devices.',
-    link: 'https://github.com/lele-tech/RinconEspannol',
+    link: 'https://github.com/lele-tech/Personal-Portfolio',
     image: '/imgs/Portafolio.PNG',
   },
   {

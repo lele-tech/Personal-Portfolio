@@ -43,7 +43,7 @@ const Header = () => {
         <div className="md:col-span-4 flex flex-col items-center gap-8">
           <div className="rounded-full ring-4 ring-gray-600 shadow-lg w-36 h-36 sm:w-44 sm:h-44 md:w-48 md:h-48 overflow-hidden">
             <img
-              src="./public/imgs/perfil.jpg"
+              src="./imgs/perfil.jpg"
               alt="Mi foto"
               className="w-full h-full object-cover rounded-full transform hover:scale-105 transition-transform duration-500"
             />
