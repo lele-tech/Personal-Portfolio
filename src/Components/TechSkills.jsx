@@ -41,18 +41,18 @@ const techCategories = [
     techs: [
       { name: 'Node.js', icon: <FaNodeJs size={48} className="text-green-600" /> },
       { name: 'PHP', icon: <FaPhp size={48} className="text-indigo-500" /> },
-      { name: 'Laravel', icon: <img src="./public/imgs/laravel.png" alt="Laravel" className="w-12 h-12 object-contain" /> },
+      { name: 'Laravel', icon: <img src=".imgs/laravel.png" alt="Laravel" className="w-12 h-12 object-contain" /> },
       { name: 'Java', icon: <FaJava size={48} className="text-red-600" /> },
-      { name: 'C#', icon: <img src="./public/imgs/C.png" alt="C#" className="w-12 h-12" /> },
-      { name: '.NET', icon: <img src="./public/imgs/Microsoft_.NET.png" alt=".NET" className="w-12 h-12" /> },
+      { name: 'C#', icon: <img src="./imgs/C.png" alt="C#" className="w-12 h-12" /> },
+      { name: '.NET', icon: <img src="./imgs/Microsoft_.NET.png" alt=".NET" className="w-12 h-12" /> },
     ],
   },
   {
     category: 'Data Bases',
     techs: [
       { name: 'MySQL', icon: <SiMysql size={48} className="text-[#4479A1]" /> },
-      { name: 'HeidiSQL', icon: <img src="./public/imgs/HeidiSQL.png" alt="HeidiSQL" className="w-12 h-12" /> },
-      { name: 'Firebase', icon: <img src="./public/imgs/firebase.png" alt="Firebase" className="w-12 h-12" /> },
+      { name: 'HeidiSQL', icon: <img src="./imgs/HeidiSQL.png" alt="HeidiSQL" className="w-12 h-12" /> },
+      { name: 'Firebase', icon: <img src="./imgs/firebase.png" alt="Firebase" className="w-12 h-12" /> },
       { name: 'Oracle', icon: <SiOracle size={48} className="text-red-600" /> },
     ],
   },
@@ -75,7 +75,7 @@ const techCategories = [
     category: 'Version Control',
     techs: [
       { name: 'Git', icon: <FaGitAlt size={48} className="text-orange-500" /> },
-      { name: 'GitHub', icon: <img src="./public/imgs/github.png" alt="GitHub" className="w-12 h-12" /> },
+      { name: 'GitHub', icon: <img src="./imgs/github.png" alt="GitHub" className="w-12 h-12" /> },
     ],
   },
   {
@@ -90,9 +90,9 @@ const techCategories = [
     category: 'Development Tools',
     techs: [
       { name: 'Visual Studio Code', icon: <FaCode size={48} className="text-blue-500" /> },
-      { name: 'Composer', icon: <img src="./public/imgs/composer.png" alt="Composer" className="w-12 h-12 object-contain" /> },
-      { name: 'Netbeans', icon: <img src="./public/imgs/NetBeans.png" alt="NetBeans" className="w-12 h-12 object-contain" /> },
-      { name: 'NPM', icon: <img src="./public/imgs/npm.png" alt="NPM" className="w-12 h-12" /> },
+      { name: 'Composer', icon: <img src="./imgs/composer.png" alt="Composer" className="w-12 h-12 object-contain" /> },
+      { name: 'Netbeans', icon: <img src="/imgs/NetBeans.png" alt="NetBeans" className="w-12 h-12 object-contain" /> },
+      { name: 'NPM', icon: <img src="./imgs/npm.png" alt="NPM" className="w-12 h-12" /> },
     ],
   },
   {
