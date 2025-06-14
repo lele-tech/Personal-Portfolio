@@ -41,7 +41,7 @@ const techCategories = [
     techs: [
       { name: 'Node.js', icon: <FaNodeJs size={48} className="text-green-600" /> },
       { name: 'PHP', icon: <FaPhp size={48} className="text-indigo-500" /> },
-      { name: 'Laravel', icon: <img src=".imgs/laravel.png" alt="Laravel" className="w-12 h-12 object-contain" /> },
+      { name: 'Laravel', icon: <img src="./imgs/laravel.png" alt="Laravel" className="w-12 h-12 object-contain" /> },
       { name: 'Java', icon: <FaJava size={48} className="text-red-600" /> },
       { name: 'C#', icon: <img src="./imgs/C.png" alt="C#" className="w-12 h-12" /> },
       { name: '.NET', icon: <img src="./imgs/Microsoft_.NET.png" alt=".NET" className="w-12 h-12" /> },
