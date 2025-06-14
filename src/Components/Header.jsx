@@ -51,7 +51,7 @@ const Header = () => {
 
           <div className="flex flex-col items-center gap-4 text-center">
             <a
-              href="/Documents/Keyler_Ibarra_CVI.pdf"
+              href="/Documents/Keyler_Ibarra_CV.pdf"
               download
               className="text-sm text-blue-400 hover:text-blue-600 hover:underline transition-colors px-2 py-1 rounded-sm"
             >
@@ -107,7 +107,7 @@ const Header = () => {
               Full Stack Developer
             </span>{" "}
             passionate about building robust and scalable solutions. Hands-on experience developing applications using{" "}
-            <span className="text-gray-100 font-semibold">Java, .NET, C#, React</span>{" "}
+            <span className="text-gray-100 font-semibold">Java, .NET, React</span>{" "}
             and{" "}
             <span className="text-gray-100 font-semibold">MySQL databases</span>. I stand out for my ability to quickly adapt to new technologies, collaborate effectively in multidisciplinary teams, and apply development methodologies that ensure clean, efficient, and maintainable code.
 
