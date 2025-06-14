@@ -1,2 +1,8 @@
-# Personal-Portfolio
-This personal portfolio repository is created to demonstrate and improve my skills and knowledge in web development. It contains various projects showcasing practical experience with multiple technologies, reflecting my commitment to continuous learning and delivering clean, efficient, and maintainable code.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
